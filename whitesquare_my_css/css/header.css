@@ -74,7 +74,7 @@ ul.menu li a:hover, ul.menu li.active a {
 	background: url(..//images/bg.png);
 	width: 100%;
 }
-.title__text h1 {
+h1.title__text {
 	width: 193px;
 	background: url(..//images/background.png);
 	font-family: Oswald;
