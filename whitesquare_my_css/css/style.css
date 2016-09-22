@@ -91,7 +91,7 @@
 	width: 680px;
 }
 .content__text p {
-	font-family: "Tahoma Regular";
+	font-family: "Tahoma";
 	font-size: 12px;
 	display: block;
 	padding: 20px 0 0 0;
@@ -187,7 +187,7 @@ padding-left: 40px;
     margin-bottom: 11px;
 }
 .footer p, ul, h2 {
-	font-family: "Tahoma Regular";
+	font-family: "Tahoma";
 	font-size: 11px;
 	color: #dbdbdb;
 }

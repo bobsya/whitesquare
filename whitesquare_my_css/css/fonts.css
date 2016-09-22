@@ -1,13 +1,17 @@
-@font-face {
-    font-family: 'Oswald Regular'; /* Гарнитура шрифта */
-    src: url('..//fonts/Oswald-Regular.ttf'); /* Путь к файлу со шрифтом */
-   }
+
  @font-face {
-    font-family: 'Oswald Light'; /* Гарнитура шрифта */
-    src: url('..//fonts/Oswald-Light.ttf'); /* Путь к файлу со шрифтом */
-   }
- @font-face {
-    font-family: 'Tahoma Regular'; /* Гарнитура шрифта */
-    src: url('..//fonts/Tahoma.ttf'); /* Путь к файлу со шрифтом */
-   }
-        
+ font-family: 'Oswald Light';
+ src: url('..//fonts/oswald-light-webfont.eot?') format('eot'), 
+      url('..//fonts/oswald-light-webfont.woff') format('woff'), 
+      url('..//fonts/oswald-light-webfont.woff2') format('woff2'),
+      url('..//fonts/Oswald-Light.ttf')  format('truetype'),
+      url('..//fonts/oswald-light-webfont.svg#svgFontName') format('svg');
+ }
+  @font-face {
+ font-family: 'Oswald Regular';
+ src: url('..//fonts/oswald-regular-webfont.eot?') format('eot'), 
+      url('..//fonts/oswald-regular-webfont.woff') format('woff'),
+      url('..//fonts/oswald-regular-webfont.woff2') format('woff2')
+      url('..//fonts/Oswald-Regular.ttf')  format('truetype'),
+      url('..//fonts/oswald-regular-webfont.svg#svgFontName') format('svg');
+ }
