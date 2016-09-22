@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Oswald Regular'; /* Гарнитура шрифта */
+    src: url('..//fonts/Oswald-Regular.ttf'); /* Путь к файлу со шрифтом */
+   }
+ @font-face {
+    font-family: 'Oswald Light'; /* Гарнитура шрифта */
+    src: url('..//fonts/Oswald-Light.ttf'); /* Путь к файлу со шрифтом */
+   }
+ @font-face {
+    font-family: 'Tahoma Regular'; /* Гарнитура шрифта */
+    src: url('..//fonts/Tahoma.ttf'); /* Путь к файлу со шрифтом */
+   }
+        

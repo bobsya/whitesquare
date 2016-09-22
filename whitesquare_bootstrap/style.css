@@ -1,0 +1,66 @@
+.search .btn-primary {
+	border-radius: 0;
+}
+header {
+	border-top: 5px solid #7e7e7e;
+}
+.title {
+	background: url(images/bg.png);
+}
+.title__text {
+	background: url(images/background.png); 
+	width: 193px;
+	text-transform: uppercase;	
+	margin-left: 20px;
+}
+.title__text h1 {
+	font-size: 40px;
+	margin-top: 0;
+	margin-bottom: 0;
+	font-family: "Oswald";
+	text-align: center;
+}
+body {
+	background: url(images/background.png);
+}
+.sidebar ul {
+	list-style-type: none;
+	padding: 0;
+}
+.sidebar ul li {
+	background: url(images/square.png) 11px center #f3f3f3 no-repeat;
+	border: 1px solid #e7e7e7;
+	font-family: "Oswald Light";
+	font-size: 14px;
+	text-transform: uppercase;
+	list-style-type: none;
+	padding: 13px 0 12px 30px;
+}
+.sidebar ul li a{
+	text-decoration: none;
+	color: #8f8f8f;
+}
+.sidebar ul li:hover {
+	background: url(images/square-active.png) 11px center #f3f3f3 no-repeat;
+}
+.sidebar ul li:hover a {
+	color:#29c5e6;
+}
+.sidebar, .content {
+	padding: 0;
+}
+.content__our img{
+	width: 100px;
+	height: 100px;
+}
+@media (min-width: 768px) {
+	.content__our{
+		width: 20%;
+	}
+}
+footer {
+	background: #7e7e7e;
+}
+.sitemap ul {
+	list-style-type: none;
+}
