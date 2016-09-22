@@ -179,7 +179,7 @@ padding-left: 40px;
 }
 .footer h1 {
 	font-size: 14px;
-	font-family: "Oswald Regular";
+	font-family: "Oswald";
 	color:#ffffff;
 	text-transform: uppercase;
 	border-bottom: 1px solid #919191;
@@ -190,6 +190,7 @@ padding-left: 40px;
 	font-family: "Tahoma";
 	font-size: 11px;
 	color: #dbdbdb;
+	text-transform: capitalize;
 }
 .social {
 	margin-left: 18px;
