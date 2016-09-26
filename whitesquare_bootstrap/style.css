@@ -61,6 +61,20 @@ body {
 footer {
 	background: #7e7e7e;
 }
+footer h5 {
+	text-transform: uppercase;
+	border-bottom: 1px solid #919191;
+}
 .sitemap ul {
 	list-style-type: none;
+}
+@media (min-width: 768px) {
+	.sitemap ul{
+		padding-left: 0;
+	}
+}
+@media (min-width: 768px) {
+	.marker{
+		padding-left: 0;
+	}
 }
